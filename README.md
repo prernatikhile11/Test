@@ -1,2 +1,2 @@
 # Test
-for testing conflict in repo readme file
+This is Developer 2 change.
